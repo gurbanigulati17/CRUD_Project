@@ -1,6 +1,7 @@
 # CRUD_Project
 
-CRUD with MVC is an appliaction which is built using ASP .Net web Application Framework of C# with an Empty template and choosing MVC.
+CRUD with MVC is an appliaction which is built using ASP .Net web Application Framework of C# with an MVC Template without using entity Framework.
+Fully Responsive database as of using predefined Bootstrap class.
 
 
 **1.** In models folder creating a new class ProductModel As Model
